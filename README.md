@@ -1,1 +1,1 @@
-# template-typescript-jest-husky-standard-prettier
+# template-typescrip-tsdoct-jest-husky-standard-prettier
