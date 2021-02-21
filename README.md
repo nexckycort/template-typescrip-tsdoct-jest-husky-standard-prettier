@@ -1,0 +1,1 @@
+# template-typescript-jest-husky-standard-prettier
